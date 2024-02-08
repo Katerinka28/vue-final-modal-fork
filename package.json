@@ -2,7 +2,7 @@
   "name": "vue-final-modal",
   "private": false,
   "version": "4.0.0",
-  "source": "src/index.ts",
+  "source": "./src/index.ts",
   "main": "./dist/index.umd.js",
   "module": "./dist/index.es.js",
   "types": "./dist/index.d.ts",
